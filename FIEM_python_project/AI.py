@@ -1,7 +1,7 @@
 from time import sleep
-print(">> Starting The Jarvis")
+print(">> Starting The Chinkui")
 from Body.Speak import Speak
-Speak(">> Starting The Jarvis")
+Speak(">> Starting The Chinkui")
 
 def webcam():
     Speak(">> You can say now")
